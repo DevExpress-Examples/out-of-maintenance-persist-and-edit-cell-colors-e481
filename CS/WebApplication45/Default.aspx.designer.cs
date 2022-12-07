@@ -35,7 +35,7 @@ namespace WebApplication45 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridView1;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridView1;
         
         /// <summary>
         /// ASPxButton1 control.
@@ -44,7 +44,7 @@ namespace WebApplication45 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton1;
+        protected global::DevExpress.Web.ASPxButton ASPxButton1;
         
         /// <summary>
         /// ASPxButton2 control.
@@ -53,7 +53,7 @@ namespace WebApplication45 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton2;
+        protected global::DevExpress.Web.ASPxButton ASPxButton2;
         
         /// <summary>
         /// ASPxButton3 control.
@@ -62,6 +62,6 @@ namespace WebApplication45 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton3;
+        protected global::DevExpress.Web.ASPxButton ASPxButton3;
     }
 }
